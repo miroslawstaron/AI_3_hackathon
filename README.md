@@ -3,15 +3,21 @@ Modern software engineering uses generative AI when developing, testing, and eve
 
 This Hackathon’s goal is to develop a tool that uses multiple models to develop, test, and optimize software for a specific task. The figure below illustrates the architecture of this tool.
 
+![architecture](architecture.png)
+
 The coordinator prompts LLM1 to solve a task and then prompts LLM2 to test the program developed by LLM1. If there are errors, the coordinator prompts one of the LLMs to provide the solution. 
 
 ## Tests before the hackathon
 
 In this hackathon we use two servers at Chalmers / Göteborgs Universitet that run LLaMA 3.2 models through the Ollama framework . We communicate with them using REST API. 
-Test 1: to check that you can connect to the server, please go to this address in your browser: deeperthought.cse.chalmers.se:80/api/tags. This should result in output like this:
+
+_Test 1:_ to check that you can connect to the server, please go to this address in your browser: deeperthought.cse.chalmers.se:80/api/tags. This should result in output like this:
+
+![JSON output](json.png)
 
 If it does not work, please check the proxy settings and let me know beforehand. 
-Test 2: To check that you can connect to these servers from a Python script, please run the following Python program: 
+
+_Test 2:_ To check that you can connect to these servers from a Python script, please run the following Python program: 
 
 ```
 import requests
