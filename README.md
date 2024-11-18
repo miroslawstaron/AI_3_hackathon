@@ -36,3 +36,22 @@ print(json_data['response'])
 ```
 
 The output should be a Fibonacci program in Python; the response should come within less than 20 seconds. If the program does not respond, please change the last line to print(json_data) and check the results. 
+
+## Your tasks during the hackathon
+
+1. Finish up the script so that it takes only one input -- the specification of the program -- and creates the program together with the appropriate test cases. 
+
+2. Create an execution environment -- execute the generated program and the test cases.
+
+3. Create a user interface, using one of the following:
+a) one of the frameworks that Ollama provides: https://github.com/ollama/ollama
+b) gradio -- https://www.gradio.app/
+
+## Useful resources
+* Rosetta Code -- www.rosettacode.org - a repository of programming problems and solutions
+
+## How to send it your solutions
+If you want to, I would be happy to see pull requests with the solutions that you design (in newly created folders). That would help me to improve the Hackathon for other companies. 
+
+## Remember
+Please remember that you are sending your prompts over HTTP, i.e., pure text. I do not store any information on the servers deepthought and deeperthought, BUT it's open internet. So, do not send any company confidential data there. 
