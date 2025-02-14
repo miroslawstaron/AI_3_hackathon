@@ -1,0 +1,410 @@
+File,Result
+100-doors_00-TASK.py,OK
+100-doors_00-TASK_gemma2.py,OK
+100-doors_00-TASK_phi3.py,Error
+100-prisoners_00-TASK.py,OK
+100-prisoners_00-TASK_gemma2.py,Error
+100-prisoners_00-TASK_phi3.py,Error
+15-puzzle-game_00-TASK.py,timed out
+15-puzzle-game_00-TASK_gemma2.py,Error
+15-puzzle-game_00-TASK_phi3.py,Error
+15-puzzle-solver_00-TASK_gemma2.py,OK
+2048_00-TASK_gemma2.py,timed out
+21-game_00-TASK.py,timed out
+21-game_00-TASK_gemma2.py,timed out
+24-game-Solve_00-TASK.py,timed out
+24-game-Solve_00-TASK_gemma2.py,timed out
+24-game_00-TASK.py,OK
+24-game_00-TASK_gemma2.py,timed out
+4-rings-or-4-squares-puzzle_00-TASK.py,timed out
+4-rings-or-4-squares-puzzle_00-TASK_codellama.py,OK
+4-rings-or-4-squares-puzzle_00-TASK_gemma2.py,timed out
+9-billion-names-of-God-the-integer_00-TASK.py,Error
+9-billion-names-of-God-the-integer_00-TASK_codellama.py,timed out
+9-billion-names-of-God-the-integer_00-TASK_gemma2.py,OK
+99-bottles-of-beer_00-TASK.py,OK
+99-bottles-of-beer_00-TASK_gemma2.py,OK
+A+B_00-TASK.py,timed out
+A+B_00-TASK_gemma2.py,timed out
+Abbreviations-automatic_00-TASK.py,Error
+Abbreviations-automatic_00-TASK_gemma2.py,Error
+Abbreviations-easy_00-TASK_gemma2.py,OK
+Abbreviations-simple_00-TASK.py,Error
+Abbreviations-simple_00-TASK_gemma2.py,OK
+ABC-problem_00-TASK.py,OK
+ABC-problem_00-TASK_gemma2.py,OK
+Abelian-sandpile-model-Identity_00-TASK.py,Error
+Abelian-sandpile-model-Identity_00-TASK_codellama.py,Error
+Abelian-sandpile-model-Identity_00-TASK_gemma2.py,OK
+Abelian-sandpile-model_00-TASK.py,timed out
+Abelian-sandpile-model_00-TASK_gemma2.py,OK
+Abstract-type_00-TASK.py,OK
+Abstract-type_00-TASK_gemma2.py,Error
+Abundant-deficient-and-perfect-number-classifications_00-TASK.py,OK
+Abundant-deficient-and-perfect-number-classifications_00-TASK_gemma2.py,OK
+Abundant-odd-numbers_00-TASK_gemma2.py,Error
+Accumulator-factory_00-TASK.py,OK
+Accumulator-factory_00-TASK_gemma2.py,OK
+Achilles-numbers_00-TASK_gemma2.py,timed out
+Ackermann-function_00-TASK.py,OK
+Ackermann-function_00-TASK_gemma2.py,OK
+Active-Directory-Connect_00-TASK.py,Error
+Active-Directory-Connect_00-TASK_gemma2.py,Error
+Active-Directory-Search-for-a-user_00-TASK.py,Error
+Active-Directory-Search-for-a-user_00-TASK_gemma2.py,Error
+Active-object_00-TASK.py,OK
+Active-object_00-TASK_gemma2.py,OK
+Add-a-variable-to-a-class-instance-at-runtime_00-TASK.py,Error
+Add-a-variable-to-a-class-instance-at-runtime_00-TASK_gemma2.py,OK
+Additive-primes_00-TASK.py,OK
+Additive-primes_00-TASK_gemma2.py,OK
+Address-of-a-variable_00-TASK.py,OK
+Address-of-a-variable_00-TASK_gemma2.py,Error
+ADFGVX-cipher_00-TASK.py,Error
+ADFGVX-cipher_00-TASK_gemma2.py,Error
+AKS-test-for-primes_00-TASK.py,Error
+AKS-test-for-primes_00-TASK_gemma2.py,OK
+Algebraic-data-types_00-TASK.py,OK
+Algebraic-data-types_00-TASK_gemma2.py,OK
+Align-columns_00-TASK.py,Error
+Align-columns_00-TASK_codellama.py,Error
+Align-columns_00-TASK_gemma2.py,OK
+Aliquot-sequence-classifications_00-TASK.py,Error
+Aliquot-sequence-classifications_00-TASK_gemma2.py,Error
+Almkvist-Giullera-formula-for-pi_00-TASK.py,Error
+Almkvist-Giullera-formula-for-pi_00-TASK_gemma2.py,Error
+Almost-prime_00-TASK.py,timed out
+Almost-prime_00-TASK_gemma2.py,OK
+Amb_00-TASK.py,Error
+Amb_00-TASK_gemma2.py,OK
+Amicable-pairs_00-TASK.py,OK
+Amicable-pairs_00-TASK_gemma2.py,Error
+Anagrams-Deranged-anagrams_00-TASK.py,Error
+Anagrams-Deranged-anagrams_00-TASK_gemma2.py,Error
+Anagrams_00-TASK.py,timed out
+Anagrams_00-TASK_gemma2.py,Error
+Angle-difference-between-two-bearings_00-TASK.py,OK
+Angle-difference-between-two-bearings_00-TASK_gemma2.py,OK
+Angles-geometric-normalization-and-conversion_00-TASK.py,OK
+Angles-geometric-normalization-and-conversion_00-TASK_gemma2.py,OK
+Animate-a-pendulum_00-TASK.py,Error
+Animate-a-pendulum_00-TASK_gemma2.py,OK
+Animation_00-TASK_gemma2.py,Error
+Anonymous-recursion_00-TASK.py,OK
+Anonymous-recursion_00-TASK_gemma2.py,OK
+Anti-primes_00-TASK.py,Error
+Anti-primes_00-TASK_gemma2.py,OK
+Append-a-record-to-the-end-of-a-text-file_00-TASK.py,Error
+Append-a-record-to-the-end-of-a-text-file_00-TASK_gemma2.py,OK
+Apply-a-callback-to-an-array_00-TASK.py,OK
+Apply-a-callback-to-an-array_00-TASK_gemma2.py,OK
+Apply-a-digital-filter-direct-form-II-transposed-_00-TASK_gemma2.py,Error
+Approximate-equality_00-TASK_gemma2.py,OK
+Arbitrary-precision-integers-included-_00-TASK.py,timed out
+Arbitrary-precision-integers-included-_00-TASK_gemma2.py,Error
+Archimedean-spiral_00-TASK.py,timed out
+Archimedean-spiral_00-TASK_gemma2.py,timed out
+Arena-storage-pool_00-TASK.py,Error
+Arena-storage-pool_00-TASK_gemma2.py,Error
+Arithmetic-Complex_00-TASK.py,Error
+Arithmetic-Complex_00-TASK_gemma2.py,OK
+Arithmetic-derivative_00-TASK.py,timed out
+Arithmetic-derivative_00-TASK_gemma2.py,Error
+Arithmetic-evaluation_00-TASK.py,Error
+Arithmetic-evaluation_00-TASK_gemma2.py,Error
+Arithmetic-geometric-mean-Calculate-Pi_00-TASK.py,timed out
+Arithmetic-geometric-mean-Calculate-Pi_00-TASK_gemma2.py,OK
+Arithmetic-geometric-mean_00-TASK.py,OK
+Arithmetic-geometric-mean_00-TASK_gemma2.py,OK
+Arithmetic-Integer_00-TASK.py,timed out
+Arithmetic-Integer_00-TASK_gemma2.py,timed out
+Arithmetic-numbers_00-TASK.py,OK
+Arithmetic-numbers_00-TASK_gemma2.py,OK
+Arithmetic-Rational_00-TASK.py,Error
+Arithmetic-Rational_00-TASK_gemma2.py,Error
+Array-concatenation_00-TASK_gemma2.py,OK
+Array-length_00-TASK.py,OK
+Array-length_00-TASK_gemma2.py,OK
+Arrays_00-TASK.py,OK
+Arrays_00-TASK_gemma2.py,OK
+Ascending-primes_00-TASK.py,timed out
+Ascending-primes_00-TASK_gemma2.py,Error
+ASCII-art-diagram-converter_00-TASK.py,OK
+ASCII-art-diagram-converter_00-TASK_gemma2.py,OK
+Assertions_00-TASK.py,OK
+Assertions_00-TASK_gemma2.py,OK
+Associative-array-Creation_00-TASK.py,timed out
+Associative-array-Creation_00-TASK_gemma2.py,OK
+Associative-array-Iteration_00-TASK.py,OK
+Associative-array-Iteration_00-TASK_gemma2.py,OK
+Associative-array-Merging_00-TASK.py,Error
+Associative-array-Merging_00-TASK_gemma2.py,OK
+Atomic-updates_00-TASK.py,timed out
+Atomic-updates_00-TASK_gemma2.py,Error
+Attractive-numbers_00-TASK_gemma2.py,OK
+Average-loop-length_00-TASK.py,Error
+Average-loop-length_00-TASK_gemma2.py,timed out
+Averages-Arithmetic-mean_00-TASK.py,OK
+Averages-Arithmetic-mean_00-TASK_gemma2.py,Error
+Averages-Mean-angle_00-TASK.py,OK
+Averages-Mean-angle_00-TASK_gemma2.py,OK
+Averages-Mean-time-of-day_00-TASK_gemma2.py,Error
+Averages-Median_00-TASK.py,OK
+Averages-Median_00-TASK_gemma2.py,OK
+Averages-Mode_00-TASK.py,OK
+Averages-Mode_00-TASK_gemma2.py,OK
+Averages-Pythagorean-means_00-TASK.py,Error
+Averages-Pythagorean-means_00-TASK_gemma2.py,Error
+Averages-Root-mean-square_00-TASK.py,OK
+Averages-Root-mean-square_00-TASK_gemma2.py,OK
+Averages-Simple-moving-average_00-TASK.py,OK
+Averages-Simple-moving-average_00-TASK_gemma2.py,OK
+AVL-tree_00-TASK.py,OK
+AVL-tree_00-TASK_gemma2.py,OK
+B-zier-curves-Intersections_00-TASK_gemma2.py,Error
+Babbage-problem_00-TASK.py,OK
+Babbage-problem_00-TASK_gemma2.py,OK
+Babylonian-spiral_00-TASK.py,timed out
+Babylonian-spiral_00-TASK_gemma2.py,timed out
+Balanced-brackets_00-TASK.py,timed out
+Balanced-brackets_00-TASK_gemma2.py,OK
+Balanced-ternary_00-TASK.py,Error
+Balanced-ternary_00-TASK_gemma2.py,Error
+Barnsley-fern_00-TASK.py,Error
+Barnsley-fern_00-TASK_gemma2.py,Error
+Base64-decode-data_00-TASK.py,Error
+Base64-decode-data_00-TASK_gemma2.py,OK
+Bell-numbers_00-TASK_gemma2.py,Error
+Benfords-law_00-TASK.py,Error
+Benfords-law_00-TASK_gemma2.py,Error
+Bernoulli-numbers_00-TASK.py,Error
+Bernoulli-numbers_00-TASK_gemma2.py,Error
+Best-shuffle_00-TASK_gemma2.py,Error
+Bifid-cipher_00-TASK.py,Error
+Bifid-cipher_00-TASK_gemma2.py,OK
+Bin-given-limits_00-TASK.py,Error
+Bin-given-limits_00-TASK_gemma2.py,Error
+Binary-digits_00-TASK.py,OK
+Binary-digits_00-TASK_gemma2.py,OK
+Binary-search_00-TASK.py,timed out
+Binary-search_00-TASK_gemma2.py,OK
+Binary-strings_00-TASK.py,Error
+Binary-strings_00-TASK_gemma2.py,Error
+Bioinformatics-base-count_00-TASK.py,OK
+Bioinformatics-base-count_00-TASK_gemma2.py,OK
+Bioinformatics-Global-alignment_00-TASK.py,Error
+Bioinformatics-Global-alignment_00-TASK_gemma2.py,OK
+Bioinformatics-Sequence-mutation_00-TASK.py,OK
+Bioinformatics-Sequence-mutation_00-TASK_gemma2.py,Error
+Biorhythms_00-TASK.py,Error
+Biorhythms_00-TASK_gemma2.py,Error
+Bitcoin-address-validation_00-TASK.py,OK
+Bitcoin-address-validation_00-TASK_gemma2.py,OK
+Bitcoin-public-point-to-address_00-TASK.py,Error
+Bitcoin-public-point-to-address_00-TASK_gemma2.py,Error
+Bitmap-B-zier-curves-Cubic_00-TASK.py,timed out
+Bitmap-B-zier-curves-Cubic_00-TASK_gemma2.py,OK
+Bitmap-B-zier-curves-Quadratic_00-TASK.py,OK
+Bitmap-B-zier-curves-Quadratic_00-TASK_gemma2.py,OK
+Bitmap-Bresenhams-line-algorithm_00-TASK.py,Error
+Bitmap-Bresenhams-line-algorithm_00-TASK_gemma2.py,Error
+Bitmap-Flood-fill_00-TASK.py,Error
+Bitmap-Flood-fill_00-TASK_gemma2.py,Error
+Bitmap-Histogram_00-TASK.py,Error
+Bitmap-Histogram_00-TASK_gemma2.py,Error
+Bitmap-Midpoint-circle-algorithm_00-TASK_gemma2.py,OK
+Bitmap-PPM-conversion-through-a-pipe_00-TASK.py,Error
+Bitmap-PPM-conversion-through-a-pipe_00-TASK_gemma2.py,OK
+Bitmap-Read-a-PPM-file_00-TASK.py,Error
+Bitmap-Read-a-PPM-file_00-TASK_gemma2.py,Error
+Bitmap-Read-an-image-through-a-pipe_00-TASK.py,Error
+Bitmap-Read-an-image-through-a-pipe_00-TASK_gemma2.py,OK
+Bitmap-Write-a-PPM-file_00-TASK.py,OK
+Bitmap-Write-a-PPM-file_00-TASK_gemma2.py,Error
+Bitmap_00-TASK.py,OK
+Bitmap_00-TASK_gemma2.py,OK
+Bitwise-IO_00-TASK.py,Error
+Bitwise-IO_00-TASK_gemma2.py,OK
+Bitwise-operations_00-TASK.py,OK
+Bitwise-operations_00-TASK_gemma2.py,OK
+Blum-integer_00-TASK.py,timed out
+Blum-integer_00-TASK_gemma2.py,OK
+Boolean-values_00-TASK.py,OK
+Boolean-values_00-TASK_gemma2.py,OK
+Box-the-compass_00-TASK.py,Error
+Box-the-compass_00-TASK_gemma2.py,Error
+Boyer-Moore-string-search_00-TASK.py,OK
+Boyer-Moore-string-search_00-TASK_gemma2.py,OK
+Brace-expansion_00-TASK.py,Error
+Brace-expansion_00-TASK_gemma2.py,Error
+Brazilian-numbers_00-TASK.py,timed out
+Brazilian-numbers_00-TASK_gemma2.py,timed out
+Break-OO-privacy_00-TASK.py,Error
+Break-OO-privacy_00-TASK_gemma2.py,OK
+Brilliant-numbers_00-TASK.py,Error
+Brilliant-numbers_00-TASK_gemma2.py,Error
+Brownian-tree_00-TASK.py,timed out
+Brownian-tree_00-TASK_gemma2.py,timed out
+Bulls-and-cows-Player_00-TASK.py,timed out
+Bulls-and-cows-Player_00-TASK_gemma2.py,timed out
+Bulls-and-cows_00-TASK.py,timed out
+Bulls-and-cows_00-TASK_gemma2.py,timed out
+Burrows-Wheeler-transform_00-TASK.py,Error
+Burrows-Wheeler-transform_00-TASK_gemma2.py,OK
+Caesar-cipher_00-TASK.py,Error
+Caesar-cipher_00-TASK_gemma2.py,timed out
+Calculating-the-value-of-e_00-TASK.py,Error
+Calculating-the-value-of-e_00-TASK_gemma2.py,OK
+Calendar---for-REAL-programmers_00-TASK_gemma2.py,Error
+Calendar_00-TASK.py,Error
+Calendar_00-TASK_gemma2.py,Error
+Calkin-Wilf-sequence_00-TASK.py,Error
+Calkin-Wilf-sequence_00-TASK_gemma2.py,Error
+Call-a-foreign-language-function_00-TASK.py,Error
+Call-a-foreign-language-function_00-TASK_gemma2.py,Error
+Call-a-function-in-a-shared-library_00-TASK.py,Error
+Call-a-function-in-a-shared-library_00-TASK_gemma2.py,Error
+Call-a-function_00-TASK.py,Error
+Call-a-function_00-TASK_gemma2.py,Error
+Call-an-object-method_00-TASK.py,OK
+Call-an-object-method_00-TASK_gemma2.py,OK
+Camel-case-and-snake-case_00-TASK.py,OK
+Camel-case-and-snake-case_00-TASK_gemma2.py,OK
+Canny-edge-detector_00-TASK.py,Error
+Canny-edge-detector_00-TASK_gemma2.py,Error
+Canonicalize-CIDR_00-TASK.py,Error
+Canonicalize-CIDR_00-TASK_gemma2.py,Error
+Cantor-set_00-TASK.py,timed out
+Cantor-set_00-TASK_gemma2.py,OK
+Carmichael-3-strong-pseudoprimes_00-TASK.py,Error
+Carmichael-3-strong-pseudoprimes_00-TASK_gemma2.py,Error
+Cartesian-product-of-two-or-more-lists_00-TASK.py,OK
+Cartesian-product-of-two-or-more-lists_00-TASK_gemma2.py,Error
+Case-sensitivity-of-identifiers_00-TASK.py,OK
+Case-sensitivity-of-identifiers_00-TASK_gemma2.py,OK
+Casting-out-nines_00-TASK.py,OK
+Casting-out-nines_00-TASK_gemma2.py,timed out
+Catalan-numbers-Pascals-triangle_00-TASK_gemma2.py,timed out
+Catalan-numbers_00-TASK.py,OK
+Catalan-numbers_00-TASK_gemma2.py,OK
+Catamorphism_00-TASK.py,OK
+Catamorphism_00-TASK_gemma2.py,OK
+Catmull-Clark-subdivision-surface_00-TASK.py,OK
+Catmull-Clark-subdivision-surface_00-TASK_gemma2.py,OK
+Chaocipher_00-TASK.py,Error
+Chaocipher_00-TASK_gemma2.py,OK
+Chaos-game_00-TASK.py,timed out
+Chaos-game_00-TASK_gemma2.py,OK
+Character-codes_00-TASK_gemma2.py,OK
+Chat-server_00-TASK.py,timed out
+Chat-server_00-TASK_gemma2.py,timed out
+Check-input-device-is-a-terminal_00-TASK_gemma2.py,OK
+Check-Machin-like-formulas_00-TASK.py,OK
+Check-Machin-like-formulas_00-TASK_gemma2.py,OK
+Check-output-device-is-a-terminal_00-TASK.py,Error
+Check-output-device-is-a-terminal_00-TASK_gemma2.py,OK
+Check-that-file-exists_00-TASK.py,OK
+Check-that-file-exists_00-TASK_gemma2.py,OK
+Checkpoint-synchronization_00-TASK.py,OK
+Checkpoint-synchronization_00-TASK_gemma2.py,Error
+Chernicks-Carmichael-numbers_00-TASK.py,Error
+Chernicks-Carmichael-numbers_00-TASK_gemma2.py,timed out
+Cheryls-birthday_00-TASK.py,OK
+Cheryls-birthday_00-TASK_gemma2.py,Error
+Chinese-remainder-theorem_00-TASK.py,OK
+Chinese-remainder-theorem_00-TASK_gemma2.py,Error
+Chinese-zodiac_00-TASK.py,Error
+Chinese-zodiac_00-TASK_gemma2.py,OK
+Cholesky-decomposition_00-TASK.py,OK
+Cholesky-decomposition_00-TASK_gemma2.py,Error
+Chowla-numbers_00-TASK.py,timed out
+Chowla-numbers_00-TASK_gemma2.py,Error
+Church-numerals_00-TASK.py,Error
+Church-numerals_00-TASK_gemma2.py,Error
+Circles-of-given-radius-through-two-points_00-TASK.py,Error
+Circles-of-given-radius-through-two-points_00-TASK_gemma2.py,Error
+Circular-primes_00-TASK.py,Error
+Circular-primes_00-TASK_gemma2.py,Error
+Cistercian-numerals_00-TASK.py,Error
+Cistercian-numerals_00-TASK_gemma2.py,OK
+Classes_00-TASK.py,OK
+Classes_00-TASK_gemma2.py,OK
+Closest-pair-problem_00-TASK.py,OK
+Closest-pair-problem_00-TASK_gemma2.py,Error
+Closures-Value-capture_00-TASK.py,OK
+Closures-Value-capture_00-TASK_gemma2.py,OK
+Collections_00-TASK.py,OK
+Collections_00-TASK_gemma2.py,OK
+Color-of-a-screen-pixel_00-TASK.py,Error
+Color-of-a-screen-pixel_00-TASK_gemma2.py,Error
+Color-quantization_00-TASK.py,Error
+Color-quantization_00-TASK_gemma2.py,Error
+Color-wheel_00-TASK.py,OK
+Color-wheel_00-TASK_gemma2.py,OK
+Colorful-numbers_00-TASK.py,Error
+Colorful-numbers_00-TASK_gemma2.py,OK
+Colour-bars-Display_00-TASK.py,Error
+Colour-bars-Display_00-TASK_gemma2.py,OK
+Colour-pinstripe-Display_00-TASK.py,Error
+Colour-pinstripe-Display_00-TASK_gemma2.py,Error
+Colour-pinstripe-Printer_00-TASK.py,Error
+Colour-pinstripe-Printer_00-TASK_gemma2.py,Error
+Combinations-and-permutations_00-TASK.py,Error
+Combinations-and-permutations_00-TASK_gemma2.py,OK
+Combinations-with-repetitions_00-TASK_gemma2.py,OK
+Combinations_00-TASK_gemma2.py,timed out
+Comma-quibbling_00-TASK.py,OK
+Comma-quibbling_00-TASK_gemma2.py,OK
+Command-line-arguments_00-TASK_gemma2.py,OK
+Commatizing-numbers_00-TASK.py,OK
+Commatizing-numbers_00-TASK_gemma2.py,OK
+Comments_00-TASK.py,OK
+Comments_00-TASK_gemma2.py,Error
+Compare-a-list-of-strings_00-TASK.py,OK
+Compare-a-list-of-strings_00-TASK_gemma2.py,OK
+Compare-length-of-two-strings_00-TASK.py,OK
+Compare-length-of-two-strings_00-TASK_gemma2.py,OK
+Compare-sorting-algorithms-performance_00-TASK.py,OK
+Compare-sorting-algorithms-performance_00-TASK_gemma2.py,Error
+Compile-time-calculation_00-TASK.py,OK
+Compile-time-calculation_00-TASK_gemma2.py,OK
+Compiler-AST-interpreter_00-TASK.py,Error
+Compiler-AST-interpreter_00-TASK_gemma2.py,OK
+Compiler-code-generator_00-TASK.py,Error
+Compiler-code-generator_00-TASK_gemma2.py,Error
+Compiler-lexical-analyzer_00-TASK.py,Error
+Compiler-syntax-analyzer_00-TASK.py,Error
+Compiler-syntax-analyzer_00-TASK_gemma2.py,Error
+Compiler-syntax-analyzer_00-TASK_phi3.py,Error
+Compiler-virtual-machine-interpreter_00-TASK_gemma2.py,OK
+Composite-numbers-k-with-no-single-digit-factors-whose-factors-are-all-substrings-of-k_00-TASK.py,Error
+Composite-numbers-k-with-no-single-digit-factors-whose-factors-are-all-substrings-of-k_00-TASK_gemma2.py,OK
+Compound-data-type_00-TASK_gemma2.py,OK
+Concurrent-computing_00-TASK.py,OK
+Concurrent-computing_00-TASK_gemma2.py,OK
+Conditional-structures_00-TASK.py,OK
+Conditional-structures_00-TASK_gemma2.py,Error
+Conjugate-transpose_00-TASK.py,OK
+Conjugate-transpose_00-TASK_gemma2.py,Error
+Consecutive-primes-with-ascending-or-descending-differences_00-TASK.py,OK
+Consecutive-primes-with-ascending-or-descending-differences_00-TASK_gemma2.py,Error
+Constrained-genericity_00-TASK.py,Error
+Constrained-genericity_00-TASK_gemma2.py,Error
+Constrained-random-points-on-a-circle_00-TASK.py,Error
+Constrained-random-points-on-a-circle_00-TASK_gemma2.py,timed out
+Continued-fraction-Arithmetic-Construct-from-rational-number_00-TASK.py,Error
+Continued-fraction-Arithmetic-Construct-from-rational-number_00-TASK_gemma2.py,OK
+Continued-fraction-Arithmetic-G-matrix-ng-continued-fraction-n-_00-TASK.py,Error
+Continued-fraction-Arithmetic-G-matrix-ng-continued-fraction-n-_00-TASK_gemma2.py,Error
+Continued-fraction_00-TASK.py,Error
+Continued-fraction_00-TASK_gemma2.py,Error
+Convert-decimal-number-to-rational_00-TASK.py,Error
+Convert-decimal-number-to-rational_00-TASK_gemma2.py,Error
+Convert-seconds-to-compound-duration_00-TASK.py,OK
+Convert-seconds-to-compound-duration_00-TASK_gemma2.py,OK
+Convex-hull_00-TASK.py,OK
+Convex-hull_00-TASK_gemma2.py,OK
+Conways-Game-of-Life_00-TASK.py,OK
+Conways-Game-of-Life_00-TASK_gemma2.py,OK
+Copy-a-string_00-TASK.py,OK
+Copy-a-string_00-TASK_gemma2.py,OK
