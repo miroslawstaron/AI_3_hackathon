@@ -7,6 +7,12 @@ This Hackathon’s goal is to develop a tool that uses multiple models to develo
 
 The coordinator prompts LLM1 to solve a task and then prompts LLM2 to test the program developed by LLM1. If there are errors, the coordinator prompts one of the LLMs to provide the solution. 
 
+## Three parts -- choose your own poison
+This Hackathon is divided into three parts, with varying degree of challenges:
+1. SimpleAI -- We create a simple program that interacts with an LLM to create programs; we use the prompt /api/generate interface, which means that we get the text out of the model, but we need to manage the conversation ourselves. 
+2. ChatAI -- We create the program that controls the flow of the conversation using the /api/chat interface. We still need to keep the messages together, but we do not need to embed all of the information in the prompt any more. More like a conversation. 
+3. AgenticAI -- We create classes which encapsulate conversations that we can use late on. In the main.py program, we see that we can chain two agents together and let them converse as long as we want. 
+
 ## Tests before the hackathon
 
 In this hackathon we use two servers at Chalmers / Göteborgs Universitet that run LLaMA 3.2 models through the Ollama framework . We communicate with them using REST API. 
@@ -39,18 +45,29 @@ The output should be a Fibonacci program in Python; the response should come wit
 
 ## Your tasks during the hackathon
 
-1. Finish up the script so that it takes only one input -- the specification of the program -- and creates the program together with the appropriate test cases. 
-
+### SimpleAI
+1. Start with the script _starting_point.ipynb_. Finish up the script so that it takes only one input -- the specification of the program -- and creates the program together with the appropriate test cases. 
 2. Create an execution environment -- execute the generated program and the test cases.
-
 3. Create a user interface, using one of the following:
 a) one of the frameworks that Ollama provides: https://github.com/ollama/ollama
 b) gradio -- https://www.gradio.app/
 
+### ChatAI
+1. Start with the script _continuation_chat.ipynb_. Finish it so that you can create conversation with the model. 
+2. Create the execution environment using the scripts _executer.py_ and _tester.py_
+3. Use the results from the execution as part of the conversation with the model
+4. Optionally -- create the user interface using gradio app
+
+### AgenticAI
+1. Read the code in _agent.py_ and _main.py_. Take a look how the agents encapsulate the conversation; look at how _main.py_ 
+2. Create two new classes -- one for the executer and one for the tester -- which should use both scripts as part of the agent
+3. Ask the agents to create a tic-tac-toe game in Python. 
+
+
 ## Useful resources
 * Rosetta Code -- www.rosettacode.org - a repository of programming problems and solutions
 
-## How to send it your solutions
+## How to submit your solutions
 If you want to, I would be happy to see pull requests with the solutions that you design (in newly created folders). That would help me to improve the Hackathon for other companies. 
 
 ## Remember
