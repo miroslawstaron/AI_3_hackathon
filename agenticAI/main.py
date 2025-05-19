@@ -25,7 +25,7 @@ def main():
     responseDesigner = agentDesigner.get_response(f'Here is my program, how can I improve it {responseProgrammer}')
     print("\n\nDesigner Response:", responseDesigner)
 
-    for i in tqdm(range(100000), desc="Processing iterations"):
+    for i in tqdm(range(10), desc="Processing iterations"):
         responseProgrammer = agentProgrammer.get_response(responseDesigner)
         #print("\n\n:::::::::::::::::::Programmer Response::::::::::::::::::")
         #print(responseProgrammer[:100])
