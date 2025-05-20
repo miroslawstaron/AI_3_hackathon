@@ -61,7 +61,8 @@ b) gradio -- https://www.gradio.app/
 ### AgenticAI
 1. Read the code in _agent.py_ and _main.py_. Take a look how the agents encapsulate the conversation; look at how _main.py_ 
 2. Create two new classes -- one for the executer and one for the tester -- which should use both scripts as part of the agent
-3. Ask the agents to create a tic-tac-toe game in Python. 
+3. Ask the agents to create a tic-tac-toe game in Python.
+4. Create a stop condition -- when the models should stop talking to each other
 
 
 ## Useful resources
