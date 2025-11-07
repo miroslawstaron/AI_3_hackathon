@@ -10,22 +10,22 @@ def main():
     args = parser.parse_args()
 
     # Create an instance of the Agent class
-    agentDesigner = AgentAI(server_address="http://server.com", 
-                              model_name="gemma3",
+    agentDesigner = AgentAI(server_address="http://deeperthought.cse.chalmers.se", 
+                              model_name="llama3.2:1b",
                               my_role="You are a C designer. You will be given a task and you will respond with design suggestions to solve or the task.")
     
-    agentProgrammer = AgentAI(server_address="http://server.com", 
-                            model_name="llama3.3",
+    agentProgrammer = AgentAI(server_address="http://deepthought.cse.chalmers.se", 
+                            model_name="llama3.2",
                             my_role="You are a C Programmer. You respond with the code in C to solve the task. No comments or explanations")
     
     # Get the response from the agent
     responseProgrammer = agentProgrammer.get_response(args.prompt)
     print("Programmer Response:", responseProgrammer)
     
-    responseDesigner = agentDesigner.get_response(f'Here is my program, how can I improve it {responseProgrammer}')
+    responseDesigner = agentDesigner.get_response(f'Here is my program, which solves this problem {args.prompt}. How can I improve it {responseProgrammer}')
     print("\n\nDesigner Response:", responseDesigner)
 
-    for i in tqdm(range(100000), desc="Processing iterations"):
+    for i in tqdm(range(5), desc="Processing iterations"):
         responseProgrammer = agentProgrammer.get_response(responseDesigner)
         #print("\n\n:::::::::::::::::::Programmer Response::::::::::::::::::")
         #print(responseProgrammer[:100])
