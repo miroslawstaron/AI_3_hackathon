@@ -1,0 +1,10 @@
+# Requirements for AI_3_hackathon project
+# Generated on: November 10, 2025
+pandas
+tqdm
+requests
+json
+re
+subprocess
+argparse
+os
