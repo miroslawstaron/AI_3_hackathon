@@ -1,7 +1,9 @@
-# use the agent.py file to run the agent
+#!/bin/python3
 import argparse
 from tqdm import tqdm  # Import tqdm for progress bar
 from agent import AgentAI
+
+NUMBER_OF_ITERATIONS = 10
 
 def main():
     # Parse command-line arguments
@@ -25,7 +27,7 @@ def main():
     responseDesigner = agentDesigner.get_response(f'Here is my program, which solves this problem {args.prompt}. How can I improve it {responseProgrammer}')
     print("\n\nDesigner Response:", responseDesigner)
 
-    for i in tqdm(range(5), desc="Processing iterations"):
+    for i in tqdm(range(NUMBER_OF_ITERATIONS), desc="Processing iterations"):
         responseProgrammer = agentProgrammer.get_response(responseDesigner)
         #print("\n\n:::::::::::::::::::Programmer Response::::::::::::::::::")
         #print(responseProgrammer[:100])
