@@ -32,12 +32,12 @@ def main():
     args = parser.parse_args()
 
     # Create an instance of the Agent class
-    agentDesigner = AgentAI(server_address="http://server-name/v1/chat/completions", 
-                              model_name="gpt-oss:120b",
+    agentDesigner = AgentAI(server_address="http://deeperthought.cse.chalmers.se/v1/chat/completions", 
+                              model_name="llama3.2:1b",
                               my_role="You are an experienced C software designer. You must help the programmer to solve their task. You respond with suggestions, not solutions.")
 
-    agentProgrammer = AgentAI(server_address="http://server-name/v1/chat/completions", 
-                            model_name="gemma3:latest",
+    agentProgrammer = AgentAI(server_address="http://deeperthought.cse.chalmers.se/v1/chat/completions", 
+                            model_name="llama3.2:1b",
                             max_tokens=16000,
                             my_role="You are an experienced C programmer. You must solve the task given by the designer and follow the instructions from the designer. You respond with solutions, not suggestions.")
 
