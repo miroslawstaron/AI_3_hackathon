@@ -17,7 +17,7 @@ class AgentAI:
                  api_key=""):
         self.server_address = server_address
         self.model_name = model_name
-        self.url = f'{self.server_address}'
+        self.url = f'{self.server_address}/v1/chat/completions'
         self.max_tokens = max_tokens
         # Prefer explicit api_key; else fall back to env var OPENAI_API_KEY
         self.api_key = api_key
@@ -72,10 +72,6 @@ class AgentAI:
                     print("Max retries reached. Exiting.")
                     return None
         
-
-    def start(self):
-        print(f"Starting agent with model {self.model_name} at {self.server_address}")
-
     # this function saves the messages to a file
     def save_to_csv(self,filename):
         # open the file in write mode
