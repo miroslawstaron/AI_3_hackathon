@@ -1,8 +1,9 @@
 # Requirements for AI_3_hackathon project
 # Generated on: November 10, 2025
-pandas
-tqdm
-requests
+pandas>=2.1.4
+tqdm>=4.67.1
+requests>=2.32.3
+openpyxl>=3.1.5
 json
 re
 subprocess

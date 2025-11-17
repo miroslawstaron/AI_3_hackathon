@@ -167,3 +167,12 @@ temp.py
 results.csv
 agenticAI/programmer_conversation_llama33gemma3.xlsx
 agenticAI_human/human_prompt.txt
+agenticAI/temp/*
+agenticAI/results/*
+agenticAI/main_agentc(Conflicted copy 2025-11-17 from CRAZYTHOUGHTS).py
+agenticAI/main(Conflicted copy 2025-11-17 from CRAZYTHOUGHTS).py
+agenticAI/programmer_conversation_hackathon.xlsx
+agenticAI/programmer_conversation_ll3_ll3.xlsx
+agenticAI/programmer_conversation_llama33gemma3(Conflicted copy 2025-11-17 from CRAZYTHOUGHTS).xlsx
+agenticAI_human/human_prompt(Conflicted copy 2025-11-17 from CRAZYTHOUGHTS).txt
+agenticAI_human/main(Conflicted copy 2025-11-17 from CRAZYTHOUGHTS).py
